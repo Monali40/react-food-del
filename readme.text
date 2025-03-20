@@ -12,3 +12,5 @@ component > folder Navbar > file Navbar.jsx >Navbar.css
 
 Created useStatevariables - > const [menu,setMenu] = useState("home"); ->  <li onClick={()=>setMenu("home")}  className={menu==="home"?"active":""}>home</li> give underline and move that.-> this is css code for underline
 .navbar .active.
+
+note : go to google font use embeded code
