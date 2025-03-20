@@ -1,0 +1,14 @@
+step1- Create folder on desktop name it as food delivery
+step2- open project in vs code open terminal write commands : npm create vite@latest
+enter -> give project name as frontend -> select a framework -> react or javascript
+later -> cd frontend,npm install,npm install react-router-dom - it will create node-modules pakages
+-> npm run dev -> it will give -> Local:   http://localhost:5173/
+
+step3- Go to src->app.jsx file clear the all code-> type rafce (write default code for u)
+
+
+create folders in src  - > component and pages 
+component > folder Navbar > file Navbar.jsx >Navbar.css 
+
+Created useStatevariables - > const [menu,setMenu] = useState("home"); ->  <li onClick={()=>setMenu("home")}  className={menu==="home"?"active":""}>home</li> give underline and move that.-> this is css code for underline
+.navbar .active.
