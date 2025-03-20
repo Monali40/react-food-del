@@ -1,4 +1,4 @@
-step1- Create folder on desktop name it as food delivery
+step1- Create folder on desktop name it as REACT-FOOD-DEL
 step2- open project in vs code open terminal write commands : npm create vite@latest
 enter -> give project name as frontend -> select a framework -> react or javascript
 later -> cd frontend,npm install,npm install react-router-dom - it will create node-modules pakages
